@@ -100,6 +100,7 @@ export default async function Video({ params }: PageProps) {
                 name: 'admin',
                 url: 'https://bokepperawan.pages.dev'
               }
+        }
     return (
         <div className="grid col-span-full gap-4 md:gap-4 md:mx-10">
         <section>
